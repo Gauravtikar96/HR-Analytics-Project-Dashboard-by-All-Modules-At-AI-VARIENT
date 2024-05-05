@@ -1,4 +1,4 @@
-# HR-Analytics-Project-Dashboard-By-MS-Excel
+# HR-Analytics-Project-Dashboard-By-MS-Excel-Power-BI-MySQL-Tableau all the modules
 HR Analytics Dashboard
 
 Analysis: -
